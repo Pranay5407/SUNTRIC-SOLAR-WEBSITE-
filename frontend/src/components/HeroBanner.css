@@ -1,0 +1,22 @@
+.hero-banner {
+    background: url('/solar-hero.jpg') center/cover no-repeat;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+.hero-buttons .cta {
+    margin: 10px;
+    padding: 12px 25px;
+    background: #FFC107;
+    color: #000;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.hero-buttons .cta:hover {
+    background: #FF9800;
+}
